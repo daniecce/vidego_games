@@ -1,6 +1,8 @@
 # ** Video Games 1980 - 2023 **
 
+
 **OVERVIEW**
+
 The vidego_games repository contains a collection of SQL queries designed for analyzing video game industry data. These queries are tailored for various analytical scenarios, offering users insights into market trends, player behavior, and video game sales results. Here, you'll find everything from simple queries for quick data overviews to advanced queries for in-depth analyses
 
 **SQL QUERIES** 
@@ -18,11 +20,13 @@ The vidego_games repository contains a collection of SQL queries designed for an
    - This query examines the correlation between the number of views and the rating of a game.
 
 **How to Use**
+
 1. Clone the repository to your local machine.
 2. Execute the SQL queries using your preferred database management system.
 3. Explore the results and visualize the data as needed.
 
 **Contributions**
+
 Contributions and feedback are welcome! If you have ideas for additional queries or improvements, feel free to submit a pull request.
 
 
