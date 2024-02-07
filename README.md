@@ -15,6 +15,15 @@ The vidego_games repository contains a collection of SQL queries designed for an
 4. correlation
    - This query examines the correlation between the number of views and the rating of a game.
 
+# ** How to Use **
+1. Clone the repository to your local machine.
+2. Execute the SQL queries using your preferred database management system.
+3. Explore the results and visualize the data as needed.
+
+# ** Contributions **
+Contributions and feedback are welcome! If you have ideas for additional queries or improvements, feel free to submit a pull request.
+
+
 
 
 
