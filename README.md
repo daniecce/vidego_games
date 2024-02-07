@@ -1,4 +1,4 @@
-# ** Video Games 1980 - 2023 **
+#  Video Games 1980 - 2023 
 
 
 **OVERVIEW**
